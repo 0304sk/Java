@@ -6,10 +6,8 @@ public class test {
 	
 	public static void main(String[] args) {
 		//Print odd numbers between 1 to 10
-		System.out.println("adding a new line for git test");
-		System.out.println("adding a new line for git test");
-
-		
+System.out.println("adding a new line of code");
+System.out.println("to resolve the issue");
 		for (int i = 1; i <=10; i++) {
 			
 			int a = i%2;
